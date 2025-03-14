@@ -1,10 +1,10 @@
 <script lang="ts" setup></script>
 <template>
-  <div>
+  <div class="">
     <header>
-      <div class="container mx-auto flex flex-row">
-        <NuxtImg src="/LankDevLogo.svg" width="150" alt="LankDev" />
-        <NuxtLink to="/team" class="text-white">Our Team</NuxtLink>
+      <div class="mx-auto flex flex-row">
+        <NuxtImg src="/LankDevLogo.svg" width="250" alt="LankDev" />
+        <!-- <NuxtLink to="/team" class="text-white">Our Team</NuxtLink> -->
       </div>
     </header>
   </div>
